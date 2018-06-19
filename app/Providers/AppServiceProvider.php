@@ -9,11 +9,11 @@ class AppServiceProvider extends ServiceProvider
     /**
      * Bootstrap any application services.
      *
-     * @return void
+     * @retsurn void
      */
     public function boot()
     {
-        //
+        \Schema::defaultStringLength(191);
     }
 
     /**
