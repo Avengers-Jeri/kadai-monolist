@@ -1,3 +1,3 @@
 <footer>
-    <div class="text-center text-muted">© 2016 MONOLIST.</div>
+    <div class="text-center text-muted">© 2018 S.T_MONOLIST.</div>
 </footer>
